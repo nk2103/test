@@ -97,7 +97,7 @@
       "type": "integer"
     },
     "version": {
-      "type": "integer"
+      "type": "string"
     },
     "updatable": {
       "type": "boolean"
